@@ -1,3 +1,4 @@
+<!---
 # Welcome to GitHub
 
 유레카 프로젝트 팀 생성을 축하합니다.
@@ -33,3 +34,4 @@ Syntax highlighted code block
 ### Support or Contact
 
 readme 파일 생성에 추가적인 도움이 필요하면 [도움말](https://help.github.com/articles/about-readmes/) 이나 [contact support](https://github.com/contact) 을 이용하세요.
+--->

@@ -35,3 +35,14 @@ Syntax highlighted code block
 
 readme 파일 생성에 추가적인 도움이 필요하면 [도움말](https://help.github.com/articles/about-readmes/) 이나 [contact support](https://github.com/contact) 을 이용하세요.
 --->
+# 참여한 팀원
+# 서론
+# 활동 목표
+## 슬로건
+## 활동 계획
+# 진행한 활동
+## 대학원생 인터뷰 및 연구실 탐방
+## 서버실 탐방
+## 정보통신처 탐방
+## 학과 교수님 인터뷰 
+# 결론

@@ -36,6 +36,14 @@ Syntax highlighted code block
 readme 파일 생성에 추가적인 도움이 필요하면 [도움말](https://help.github.com/articles/about-readmes/) 이나 [contact support](https://github.com/contact) 을 이용하세요.
 --->
 # 참여한 팀원
+
+서지야
+아웅뚜택
+바흐티요르
+바이쉬
+태무진
+신재용
+
 # 서론
 # 활동 목표
 ## 슬로건
